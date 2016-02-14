@@ -1,5 +1,5 @@
 var config = {
-    lang: 'nl',
+    lang: 'en',
     time: {
         timeFormat: 12,
         displaySeconds: true,
@@ -9,11 +9,11 @@ var config = {
         //change weather params here:
         //units: metric or imperial
         params: {
-            q: 'Baarn,Netherlands',
-            units: 'metric',
+            q: 'Norristown',
+            units: 'imperial',
             // if you want a different lang for the weather that what is set above, change it here
-            lang: 'nl',
-            APPID: 'YOUR_FREE_OPENWEATHER_API_KEY'
+            lang: 'en',
+            APPID: 'OPENWEATHER_API_KEY'
         }
     },
     compliments: {
@@ -27,7 +27,9 @@ var config = {
         afternoon: [
             'Hello, beauty!',
             'You look sexy!',
-            'Looking good today!'
+            'Looking good!',
+            'Hey buddy!',
+            'Sup'
         ],
         evening: [
             'Wow, you look hot!',
@@ -42,12 +44,12 @@ var config = {
         urls: [
 		{
 			symbol: 'calendar-plus-o', 
-			url: 'https://p01-calendarws.icloud.com/ca/subscribe/1/n6x7Farxpt7m9S8bHg1TGArSj7J6kanm_2KEoJPL5YIAk3y70FpRo4GyWwO-6QfHSY5mXtHcRGVxYZUf7U3HPDOTG5x0qYnno1Zr_VuKH2M'
-		},
-		{
-			symbol: 'soccer-ball-o',
-			url: 'https://www.google.com/calendar/ical/akvbisn5iha43idv0ktdalnor4%40group.calendar.google.com/public/basic.ics',
-		},
+			url: 'CALENDAR_URL'
+		}//,
+		//{
+			//symbol: 'soccer-ball-o',
+			//url: 'https://www.google.com/calendar/ical/akvbisn5iha43idv0ktdalnor4%40group.calendar.google.com/public/basic.ics',
+		//},
 		// {
 			// symbol: 'mars',
 			// url: "https://server/url/to/his.ics",
