@@ -43,25 +43,17 @@ var config = {
 		defaultSymbol: 'calendar', // Fontawsome Symbol see http://fontawesome.io/cheatsheet/
         urls: [
 		{
-			symbol: 'calendar-plus-o', 
-			url: 'CALENDAR_URL'
+			symbol: 'male', 
+			url: "CALENDAR_URL_1"
+		},
+		{
+			symbol: 'female',
+			url: "CALENDAR_URL_2",
 		}//,
-		//{
-			//symbol: 'soccer-ball-o',
-			//url: 'https://www.google.com/calendar/ical/akvbisn5iha43idv0ktdalnor4%40group.calendar.google.com/public/basic.ics',
-		//},
 		// {
-			// symbol: 'mars',
-			// url: "https://server/url/to/his.ics",
-		// },
-		// {
-			// symbol: 'venus',
-			// url: "https://server/url/to/hers.ics",
-		// },
-		// {
-			// symbol: 'venus-mars',
-			// url: "https://server/url/to/theirs.ics",
-		// },
+			// symbol: 'circle',
+			// url: "CALENDAR_URL_3",
+		// }
 		]
     },
     news: {
