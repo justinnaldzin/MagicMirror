@@ -75,7 +75,7 @@ var config = {
 		},
 		{
 			symbol: 'female',
-			url: "CALENDAR_URL_2",
+			url: "CALENDAR_URL_2"
 		}//,
 		// {
 			// symbol: 'circle',
