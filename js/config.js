@@ -35,7 +35,7 @@ var config = {
             "Don't just fly, soar.<br>―Dumbo"
         ],
         afternoon: [
-            '‐<br>‑<br>‒<br>–<br>—<br>―<br>−<br>⸗"
+            "‐<br>‑<br>‒<br>–<br>—<br>―<br>−<br>⸗"
         ],
         evening: [
             "‐<br>‑<br>‒<br>–<br>—<br>―<br>−<br>⸗"
