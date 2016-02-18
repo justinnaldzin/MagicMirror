@@ -35,10 +35,10 @@ var config = {
             "Don't just fly, soar.<br>―Dumbo"
         ],
         afternoon: [
-            "‐One<br>‑Two<br>‒Three<br>–Four<br>—Five<br>−Six<br>⸗Seven"
+            "‒The First<br>–The Second<br>−The Third"
         ],
         evening: [
-            "‐One<br>‑Two<br>‒Three<br>–Four<br>—Five<br>−Six<br>⸗Seven"
+            "‒The First<br>–The Second<br>−The Third"
         ]
     },
     calendar: {
